@@ -1,0 +1,5 @@
+param,bdate,edate,state,county,site,fname
+88500,20200801,20201105,08,013,1001,boulder01_payload.json
+88500,20200801,20201105,08,013,1001,boulder02_payload.json
+88500,20200801,20201105,08,013,1001,boulder03_payload.json
+88500,20200801,20201105,08,013,1001,boulder04_payload.json
