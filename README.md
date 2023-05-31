@@ -12,6 +12,13 @@ The analysis is broken up into several Jupyter notebooks.
 
 ## Data
 
+EPA AQI API (historical):
+* https://aqs.epa.gov/aqsweb/documents/data_api.html
+
+EPA AirNow API (real-time):
+* https://docs.airnowapi.org
+
+
 The analysis uses the following datasets:
 
 | dataset | description | link |
