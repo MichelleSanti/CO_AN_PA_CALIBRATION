@@ -1,7 +1,7 @@
 param,bdate,edate,state,county,site,fname
-88101,20170101,20171231,08,029,0007,Western_CO/La_Posta/Ute3_2017payload.json
-88101,20180101,20181231,08,029,0007,Western_CO/La_Posta/Ute3_2018payload.json
-88502,20190101,20191231,08,067,7003,Western_CO/La_Posta/Ute3_2019payload.json
-88502,20200101,20201231,08,067,7003,Western_CO/La_Posta/Ute3_2020payload.json
-88502,20210101,20211231,08,067,7003,Western_CO/La_Posta/Ute3_2021payload.json
-88502,20220101,20221231,08,067,7003,Western_CO/La_Posta/Ute3_2022payload.json
+88502,20170101,20171231,08,101,0015,Western_CO/Ignacio/Ute1_502_2017payload.json
+88502,20180101,20181231,08,101,0015,Western_CO/Ignacio/Ute1_502_2018payload.json
+88502,20190101,20191231,08,101,0015,Western_CO/Ignacio/Ute1_502_2019payload.json
+88502,20200101,20201231,08,101,0015,Western_CO/Ignacio/Ute1_502_2020payload.json
+88502,20210101,20211231,08,101,0015,Western_CO/Ignacio/Ute1_502_2021payload.json
+88502,20220101,20221231,08,101,0015,Western_CO/Ignacio/Ute1_502_2022payload.json
