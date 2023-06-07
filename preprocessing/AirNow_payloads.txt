@@ -1,7 +1,7 @@
 param,bdate,edate,state,county,site,fname
-88502,20170101,20171231,08,101,0015,Western_CO/Ignacio/Ute1_502_2017payload.json
-88502,20180101,20181231,08,101,0015,Western_CO/Ignacio/Ute1_502_2018payload.json
-88502,20190101,20191231,08,101,0015,Western_CO/Ignacio/Ute1_502_2019payload.json
-88502,20200101,20201231,08,101,0015,Western_CO/Ignacio/Ute1_502_2020payload.json
-88502,20210101,20211231,08,101,0015,Western_CO/Ignacio/Ute1_502_2021payload.json
-88502,20220101,20221231,08,101,0015,Western_CO/Ignacio/Ute1_502_2022payload.json
+88501,20170101,20171231,08,103,0007,Western_CO/Piceance_Basin/RioBasin_2017payload.json
+88501,20180101,20181231,08,103,0007,Western_CO/Piceance_Basin/RioBasin_2018payload.json
+88501,20190101,20191231,08,103,0007,Western_CO/Piceance_Basin/RioBasin_2019payload.json
+88501,20200101,20201231,08,103,0007,Western_CO/Piceance_Basin/RioBasin_2020payload.json
+88501,20210101,20211231,08,103,0007,Western_CO/Piceance_Basin/RioBasin_2021payload.json
+88501,20220101,20221231,08,103,0007,Western_CO/Piceance_Basin/RioBasin_2022payload.json
