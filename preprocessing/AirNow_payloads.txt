@@ -5,7 +5,6 @@ param,bdate,edate,state,county,site,fname
 88501,20200101,20201231,08,103,0007,Western_CO/Piceance_Basin/RioBasin_2020payload.json
 88501,20210101,20211231,08,103,0007,Western_CO/Piceance_Basin/RioBasin_2021payload.json
 88501,20220101,20221231,08,103,0007,Western_CO/Piceance_Basin/RioBasin_2022payload.json
-88501,20170101,20221231,08,103,0007,Western_CO/Piceance_Basin/RioBasin_1722payload.json
 
 88101,20170101,20171231,08,103,0006,Western_CO/Rangely/Rang_2017payload.json
 88101,20180101,20181231,08,103,0006,Western_CO/Rangely/Rang_2018payload.json
@@ -13,7 +12,6 @@ param,bdate,edate,state,county,site,fname
 88101,20200101,20201231,08,103,0006,Western_CO/Rangely/Rang_2020payload.json
 88101,20210101,20211231,08,103,0006,Western_CO/Rangely/Rang_2021payload.json
 88101,20220101,20221231,08,103,0006,Western_CO/Rangely/Rang_2022payload.json
-88101,20170101,20221231,08,103,0006,Western_CO/Rangely/Rang_1722payload.json
 
 88101,20170101,20171231,08,077,0017,Western_CO/Grand_Junction/Powell_2017payload.json
 88101,20180101,20181231,08,077,0017,Western_CO/Grand_Junction/Powell_2018payload.json
@@ -21,7 +19,6 @@ param,bdate,edate,state,county,site,fname
 88101,20200101,20201231,08,077,0017,Western_CO/Grand_Junction/Powell_2020payload.json
 88101,20210101,20211231,08,077,0017,Western_CO/Grand_Junction/Powell_2021payload.json
 88101,20220101,20221231,08,077,0017,Western_CO/Grand_Junction/Powell_2022payload.json
-88101,20170101,20221231,08,077,0017,Western_CO/Grand_Junction/Powell_1722payload.json
 
 88502,20170101,20171231,08,067,7003,Western_CO/La_Posta/Ute3_2017payload.json
 88502,20180101,20181231,08,067,7003,Western_CO/La_Posta/Ute3_2018payload.json
@@ -29,7 +26,6 @@ param,bdate,edate,state,county,site,fname
 88502,20200101,20201231,08,067,7003,Western_CO/La_Posta/Ute3_2020payload.json
 88502,20210101,20211231,08,067,7003,Western_CO/La_Posta/Ute3_2021payload.json
 88502,20220101,20221231,08,067,7003,Western_CO/La_Posta/Ute3_2022payload.json
-88502,20170101,20221231,08,067,7003,Western_CO/La_Posta/Ute3_1722payload.json
 
 88101,20170101,20171231,08,029,0007,Western_CO/Paonia/Paonia_2017payload.json
 88101,20180101,20181231,08,029,0007,Western_CO/Paonia/Paonia_2018payload.json
@@ -37,7 +33,6 @@ param,bdate,edate,state,county,site,fname
 88101,20200101,20201231,08,029,0007,Western_CO/Paonia/Paonia_2020payload.json
 88101,20210101,20211231,08,029,0007,Western_CO/Paonia/Paonia_2021payload.json
 88101,20220101,20221231,08,029,0007,Western_CO/Paonia/Paonia_2022payload.json
-88101,20170101,20221231,08,029,0007,Western_CO/Paonia/Paonia_1722payload.json
 
 81102,20170101,20171231,08,097,0008,Western_CO/Aspen/YBrick_2017payload.json
 81102,20180101,20181231,08,097,0008,Western_CO/Aspen/YBrick_2018payload.json
@@ -45,7 +40,6 @@ param,bdate,edate,state,county,site,fname
 81102,20200101,20201231,08,097,0008,Western_CO/Aspen/YBrick_2020payload.json
 81102,20210101,20211231,08,097,0008,Western_CO/Aspen/YBrick_2021payload.json
 81102,20220101,20221231,08,097,0008,Western_CO/Aspen/YBrick_2022payload.json
-81102,20170101,20221231,08,097,0008,Western_CO/Aspen/YBrick_1722payload.json
 
 88101,20170101,20171231,08,031,0027,Denver/I25Denver/I25D_2017payload.json
 88101,20180101,20181231,08,031,0027,Denver/I25Denver/I25D_2018payload.json
@@ -53,7 +47,6 @@ param,bdate,edate,state,county,site,fname
 88101,20200101,20201231,08,031,0027,Denver/I25Denver/I25D_2020payload.json
 88101,20210101,20211231,08,031,0027,Denver/I25Denver/I25D_2021payload.json
 88101,20220101,20221231,08,031,0027,Denver/I25Denver/I25D_2022payload.json
-88101,20170101,20221231,08,031,0027,Denver/I25Denver/I25D_1722payload.json
 
 88101,20170101,20171231,08,031,0028,Denver/I25Globeville/I25G_2017payload.json
 88101,20180101,20181231,08,031,0028,Denver/I25Globeville/I25G_2018payload.json
@@ -61,7 +54,6 @@ param,bdate,edate,state,county,site,fname
 88101,20200101,20201231,08,031,0028,Denver/I25Globeville/I25G_2020payload.json
 88101,20210101,20211231,08,031,0028,Denver/I25Globeville/I25G_2021payload.json
 88101,20220101,20221231,08,031,0028,Denver/I25Globeville/I25G_2022payload.json
-88101,20170101,20221231,08,031,0028,Denver/I25Globeville/I25G_1722payload.json
 
 88101,20170101,20171231,08,031,0026,Denver/La_Casa/4545Nvj_2017payload.json
 88101,20180101,20181231,08,031,0026,Denver/La_Casa/4545Nvj_2018payload.json
@@ -69,7 +61,6 @@ param,bdate,edate,state,county,site,fname
 88101,20200101,20201231,08,031,0026,Denver/La_Casa/4545Nvj_2020payload.json
 88101,20210101,20211231,08,031,0026,Denver/La_Casa/4545Nvj_2021payload.json
 88101,20220101,20221231,08,031,0026,Denver/La_Casa/4545Nvj_2022payload.json
-88101,20170101,20221231,08,031,0026,Denver/La_Casa/4545Nvj_1722payload.json
 
 88101,20170101,20171231,08,031,0002,Denver/CAMP/2105Brdwy_2017payload.json
 88101,20180101,20181231,08,031,0002,Denver/CAMP/2105Brdwy_2018payload.json
@@ -77,7 +68,6 @@ param,bdate,edate,state,county,site,fname
 88101,20200101,20201231,08,031,0002,Denver/CAMP/2105Brdwy_2020payload.json
 88101,20210101,20211231,08,031,0002,Denver/CAMP/2105Brdwy_2021payload.json
 88101,20220101,20221231,08,031,0002,Denver/CAMP/2105Brdwy_2022payload.json
-88101,20170101,20221231,08,031,0002,Denver/CAMP/2105Brdwy_1722payload.json
 
 88101,20170101,20171231,08,031,0013,Denver/NJH/14thAlbion_2017payload.json
 88101,20180101,20181231,08,031,0013,Denver/NJH/14thAlbion_2018payload.json
@@ -85,7 +75,6 @@ param,bdate,edate,state,county,site,fname
 88101,20200101,20201231,08,031,0013,Denver/NJH/14thAlbion_2020payload.json
 88101,20210101,20211231,08,031,0013,Denver/NJH/14thAlbion_2021payload.json
 88101,20220101,20221231,08,031,0013,Denver/NJH/14thAlbion_2022payload.json
-88101,20170101,20221231,08,031,0013,Denver/NJH/14thAlbion_1722payload.json
 
 88101,20170101,20171231,08,001,0010,Denver/Adams_Birch/7275Birch_2017payload.json
 88101,20180101,20181231,08,001,0010,Denver/Adams_Birch/7275Birch_2018payload.json
@@ -93,7 +82,6 @@ param,bdate,edate,state,county,site,fname
 88101,20200101,20201231,08,001,0010,Denver/Adams_Birch/7275Birch_2020payload.json
 88101,20210101,20211231,08,001,0010,Denver/Adams_Birch/7275Birch_2021payload.json
 88101,20220101,20221231,08,001,0010,Denver/Adams_Birch/7275Birch_2022payload.json
-88101,20170101,20221231,08,001,0010,Denver/Adams_Birch/7275Birch_1722payload.json
 
 88101,20170101,20171231,08,001,0008,Denver/Adams_Birch/7275Birch0008_2017payload.json
 88101,20180101,20181231,08,001,0008,Denver/Adams_Birch/7275Birch0008_2018payload.json
@@ -101,7 +89,6 @@ param,bdate,edate,state,county,site,fname
 88101,20200101,20201231,08,001,0008,Denver/Adams_Birch/7275Birch0008_2020payload.json
 88101,20210101,20211231,08,001,0008,Denver/Adams_Birch/7275Birch0008_2021payload.json
 88101,20220101,20221231,08,001,0008,Denver/Adams_Birch/7275Birch0008_2022payload.json
-88101,20170101,20221231,08,001,0008,Denver/Adams_Birch/7275Birch0008_1722payload.json
 
 88500,20170101,20171231,08,013,1001,Front_Range/FRBoulder/2017payload.json
 88500,20180101,20181231,08,013,1001,Front_Range/FRBoulder/2018payload.json
@@ -109,7 +96,6 @@ param,bdate,edate,state,county,site,fname
 88500,20200101,20201231,08,013,1001,Front_Range/FRBoulder/2020payload.json
 88500,20210101,20211231,08,013,1001,Front_Range/FRBoulder/2021payload.json
 88500,20220101,20221231,08,013,1001,Front_Range/FRBoulder/2022payload.json
-88500,20170101,20221231,08,013,1001,Front_Range/FRBoulder/1722payload.json
 
 88101,20170101,20171231,08,013,0012,Front_Range/FRBoulderCmmrce/Chamber_2017payload.json
 88101,20180101,20181231,08,013,0012,Front_Range/FRBoulderCmmrce/Chamber_2018payload.json
@@ -117,7 +103,6 @@ param,bdate,edate,state,county,site,fname
 88101,20200101,20201231,08,013,0012,Front_Range/FRBoulderCmmrce/Chamber_2020payload.json
 88101,20210101,20211231,08,013,0012,Front_Range/FRBoulderCmmrce/Chamber_2021payload.json
 88101,20220101,20221231,08,013,0012,Front_Range/FRBoulderCmmrce/Chamber_2022payload.json
-88101,20170101,20221231,08,013,0012,Front_Range/FRBoulderCmmrce/Chamber_1722payload.json
 
 88101,20170101,20171231,08,013,0003,Front_Range/FRLongmont/Lngmnt_2017payload.json
 88101,20180101,20181231,08,013,0003,Front_Range/FRLongmont/Lngmnt_2018payload.json
@@ -125,7 +110,6 @@ param,bdate,edate,state,county,site,fname
 88101,20200101,20201231,08,013,0003,Front_Range/FRLongmont/Lngmnt_2020payload.json
 88101,20210101,20211231,08,013,0003,Front_Range/FRLongmont/Lngmnt_2021payload.json
 88101,20220101,20221231,08,013,0003,Front_Range/FRLongmont/Lngmnt_2022payload.json
-88101,20170101,20221231,08,013,0003,Front_Range/FRLongmont/Lngmnt_1722payload.json
 
 88101,20170101,20171231,08,035,0004,Front_Range/FRLittleton/Roxboro_2017payload.json
 88101,20180101,20181231,08,035,0004,Front_Range/FRLittleton/Roxboro_2018payload.json
@@ -133,7 +117,6 @@ param,bdate,edate,state,county,site,fname
 88101,20200101,20201231,08,035,0004,Front_Range/FRLittleton/Roxboro_2020payload.json
 88101,20210101,20211231,08,035,0004,Front_Range/FRLittleton/Roxboro_2021payload.json
 88101,20220101,20221231,08,035,0004,Front_Range/FRLittleton/Roxboro_2022payload.json
-88101,20170101,20221231,08,035,0004,Front_Range/FRLittleton/Roxboro_1722payload.json
 
 88101,20170101,20171231,08,005,0005,Front_Range/FRLittletonACC/ACC_2017payload.json
 88101,20180101,20181231,08,005,0005,Front_Range/FRLittletonACC/ACC_2018payload.json
@@ -141,7 +124,6 @@ param,bdate,edate,state,county,site,fname
 88101,20200101,20201231,08,005,0005,Front_Range/FRLittletonACC/ACC_2020payload.json
 88101,20210101,20211231,08,005,0005,Front_Range/FRLittletonACC/ACC_2021payload.json
 88101,20220101,20221231,08,005,0005,Front_Range/FRLittletonACC/ACC_2022payload.json
-88101,20170101,20221231,08,005,0005,Front_Range/FRLittletonACC/ACC_1722payload.json
 
 88101,20170101,20171231,08,069,0009,Front_Range/FRFtCollins/FTCol_2017payload.json
 88101,20180101,20181231,08,069,0009,Front_Range/FRFtCollins/FTCol_2018payload.json
@@ -149,7 +131,6 @@ param,bdate,edate,state,county,site,fname
 88101,20200101,20201231,08,069,0009,Front_Range/FRFtCollins/FTCol_2020payload.json
 88101,20210101,20211231,08,069,0009,Front_Range/FRFtCollins/FTCol_2021payload.json
 88101,20220101,20221231,08,069,0009,Front_Range/FRFtCollins/FTCol_2022payload.json
-88101,20170101,20221231,08,069,0009,Front_Range/FRFtCollins/FTCol_1722payload.json
 
 88101,20170101,20171231,08,123,0006,Front_Range/FRGreely/Grly_2017payload.json
 88101,20180101,20181231,08,123,0006,Front_Range/FRGreely/Grly_2018payload.json
@@ -157,7 +138,6 @@ param,bdate,edate,state,county,site,fname
 88101,20200101,20201231,08,123,0006,Front_Range/FRGreely/Grly_2020payload.json
 88101,20210101,20211231,08,123,0006,Front_Range/FRGreely/Grly_2021payload.json
 88101,20220101,20221231,08,123,0006,Front_Range/FRGreely/Grly_2022payload.json
-88101,20170101,20221231,08,123,0006,Front_Range/FRGreely/Grly_1722payload.json
 
 88101,20170101,20171231,08,123,0008,Front_Range/FRPlatteville/MS_2017payload.json
 88101,20180101,20181231,08,123,0008,Front_Range/FRPlatteville/MS_2018payload.json
@@ -165,7 +145,6 @@ param,bdate,edate,state,county,site,fname
 88101,20200101,20201231,08,123,0008,Front_Range/FRPlatteville/MS_2020payload.json
 88101,20210101,20211231,08,123,0008,Front_Range/FRPlatteville/MS_2021payload.json
 88101,20220101,20221231,08,123,0008,Front_Range/FRPlatteville/MS_2022payload.json
-88101,20170101,20221231,08,123,0008,Front_Range/FRPlatteville/MS_1722payload.json
 
 88101,20170101,20171231,08,041,0017,Front_Range/FRColoradoSprings/CS_2017payload.json
 88101,20180101,20181231,08,041,0017,Front_Range/FRColoradoSprings/CS_2018payload.json
@@ -173,7 +152,6 @@ param,bdate,edate,state,county,site,fname
 88101,20200101,20201231,08,041,0017,Front_Range/FRColoradoSprings/CS_2020payload.json
 88101,20210101,20211231,08,041,0017,Front_Range/FRColoradoSprings/CS_2021payload.json
 88101,20220101,20221231,08,041,0017,Front_Range/FRColoradoSprings/CS_2022payload.json
-88101,20170101,20221231,08,041,0017,Front_Range/FRColoradoSprings/CS_1722payload.json
 
 88101,20170101,20171231,08,101,0015,Front_Range/FRPueblo/FtnSchl_2017payload.json
 88101,20180101,20181231,08,101,0015,Front_Range/FRPueblo/FtnSchl_2018payload.json
@@ -181,4 +159,3 @@ param,bdate,edate,state,county,site,fname
 88101,20200101,20201231,08,101,0015,Front_Range/FRPueblo/FtnSchl_2020payload.json
 88101,20210101,20211231,08,101,0015,Front_Range/FRPueblo/FtnSchl_2021payload.json
 88101,20220101,20221231,08,101,0015,Front_Range/FRPueblo/FtnSchl_2022payload.json
-88101,20170101,20221231,08,101,0015,Front_Range/FRPueblo/FtnSchl_1722payload.json
