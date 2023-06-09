@@ -1,3 +1,12 @@
+## SITE_NUMBER : 0005
+## LATITUDE : 39.604399
+## LONGITUDE : -105.019526
+## METHOD_TYPE : FRM
+## METHOD : R & P Model 2025 PM-2.5 Sequential Air Sampler w/VSCC - Gravimetric
+## STATE : Colorado
+## COUNTY : Arapahoe
+## DATE_START : 20210101
+## DATE_END : 20211231
 date,sample_measurement
 2021-01-01 07:00:00,6.5
 2021-01-04 07:00:00,1.8

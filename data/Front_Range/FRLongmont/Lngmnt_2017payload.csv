@@ -1,3 +1,12 @@
+## SITE_NUMBER : 0003
+## LATITUDE : 40.164576
+## LONGITUDE : -105.100856
+## METHOD_TYPE : FRM
+## METHOD : R & P Model 2025 PM-2.5 Sequential Air Sampler w/VSCC - Gravimetric
+## STATE : Colorado
+## COUNTY : Boulder
+## DATE_START : 20170101
+## DATE_END : 20171231
 date,sample_measurement
 2017-01-01 07:00:00,
 2017-01-03 20:17:00,

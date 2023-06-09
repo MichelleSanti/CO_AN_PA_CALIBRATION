@@ -1,3 +1,12 @@
+## SITE_NUMBER : 1001
+## LATITUDE : 40.012969
+## LONGITUDE : -105.267212
+## METHOD_TYPE : Non-FRM
+## METHOD : PM2.5 VSCC - FDMS-Gravimetric
+## STATE : Colorado
+## COUNTY : Boulder
+## DATE_START : 20170101
+## DATE_END : 20171231
 date,sample_measurement
 2017-01-01 07:00:00,3.2
 2017-01-01 08:00:00,10.6

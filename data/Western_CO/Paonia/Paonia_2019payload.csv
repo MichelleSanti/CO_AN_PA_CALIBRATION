@@ -1,3 +1,12 @@
+## SITE_NUMBER : 0007
+## LATITUDE : 38.8764
+## LONGITUDE : -107.6023
+## METHOD_TYPE : FEM
+## METHOD : Thermo Scientific 5014i or FH62C14-DHS w/VSCC - Beta Attenuation
+## STATE : Colorado
+## COUNTY : Delta
+## DATE_START : 20190101
+## DATE_END : 20191231
 date,sample_measurement
 2019-01-01 07:00:00,6.4
 2019-01-01 08:00:00,4.8

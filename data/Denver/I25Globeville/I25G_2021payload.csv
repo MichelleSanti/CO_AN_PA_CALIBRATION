@@ -1,3 +1,12 @@
+## SITE_NUMBER : 0028
+## LATITUDE : 39.7861
+## LONGITUDE : -104.9886
+## METHOD_TYPE : FEM
+## METHOD : GRIMM EDM Model 180 with naphion dryer - Laser Light Scattering
+## STATE : Colorado
+## COUNTY : Denver
+## DATE_START : 20210101
+## DATE_END : 20211231
 date,sample_measurement
 2021-01-01 07:00:00,36.6
 2021-01-01 08:00:00,42.1

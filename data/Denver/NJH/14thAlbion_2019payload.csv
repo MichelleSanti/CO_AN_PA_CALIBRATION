@@ -1,3 +1,12 @@
+## SITE_NUMBER : 0013
+## LATITUDE : 39.738578
+## LONGITUDE : -104.939925
+## METHOD_TYPE : FEM
+## METHOD : Teledyne T640 at 5.0 LPM - Broadband spectroscopy
+## STATE : Colorado
+## COUNTY : Denver
+## DATE_START : 20190101
+## DATE_END : 20191231
 date,sample_measurement
 2019-01-01 07:00:00,7.9
 2019-01-01 08:00:00,7.8
