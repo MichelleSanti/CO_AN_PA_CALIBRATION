@@ -9,6 +9,7 @@ The analysis is broken up into several Jupyter notebooks.
 | notebook | description | link |
 |---------:|:------------|:----:|
 | API extraction | extracts data from the EPA AN dataset | [./preprocessing/AirNow_API_extraction.ipynb](./preprocessing/AirNow_API_extraction.ipynb) |
+| data analysis| initial analysis | [./analysis/analysis_01.ipynb](./preprocessing/AirNow_API_extraction.ipynb) |
 
 ## Data
 
