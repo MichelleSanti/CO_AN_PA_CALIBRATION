@@ -1,0 +1,21 @@
+88101,20170101,20171231,08,057,0005,Western_CO/Hebron/Heb_2017payload.json
+	[warn]: UNABLE TO PROCESS (start=20170101, end=20171231, state=08, county=057, site=0005) > NOT CREATED Western_CO/Hebron/Heb_2017payload.json ([empty data] reason: No data matched your selection)
+
+88101,20180101,20181231,08,057,0005,Western_CO/Hebron/Heb_2018payload.json
+	[warn]: UNABLE TO PROCESS (start=20180101, end=20181231, state=08, county=057, site=0005) > NOT CREATED Western_CO/Hebron/Heb_2018payload.json ([empty data] reason: No data matched your selection)
+
+88101,20190101,20191231,08,057,0005,Western_CO/Hebron/Heb_2019payload.json
+	[warn]: UNABLE TO PROCESS (start=20190101, end=20191231, state=08, county=057, site=0005) > NOT CREATED Western_CO/Hebron/Heb_2019payload.json ([empty data] reason: No data matched your selection)
+
+88101,20200101,20201231,08,057,0005,Western_CO/Hebron/Heb_2020payload.json
+	[warn]: UNABLE TO PROCESS (start=20200101, end=20201231, state=08, county=057, site=0005) > NOT CREATED Western_CO/Hebron/Heb_2020payload.json ([empty data] reason: No data matched your selection)
+
+88101,20210101,20211231,08,057,0005,Western_CO/Hebron/Heb_2021payload.json
+	[warn]: UNABLE TO PROCESS (start=20210101, end=20211231, state=08, county=057, site=0005) > NOT CREATED Western_CO/Hebron/Heb_2021payload.json ([empty data] reason: No data matched your selection)
+
+88101,20170101,20171231,08,029,0007,Western_CO/Paonia/Paonia_2017payload.json
+	[warn]: UNABLE TO PROCESS (start=20170101, end=20171231, state=08, county=029, site=0007) > NOT CREATED Western_CO/Paonia/Paonia_2017payload.json ([empty data] reason: No data matched your selection)
+
+88101,20170101,20171231,08,031,0013,Denver/NJH/14thAlbion_2017payload.json
+	[warn]: UNABLE TO PROCESS (start=20170101, end=20171231, state=08, county=031, site=0013) > NOT CREATED Denver/NJH/14thAlbion_2017payload.json ([empty data] reason: No data matched your selection)
+

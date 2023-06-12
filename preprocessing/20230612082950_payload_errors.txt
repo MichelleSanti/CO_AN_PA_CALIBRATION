@@ -1,0 +1,51 @@
+88501,20170101,20171231,08,103,0007,Western_CO/Piceance_Basin/RioBasin_2017payload.json
+	[warn]: UNABLE TO PROCESS (start=20170101, end=20171231, state=08, county=103, site=0007) > NOT CREATED Western_CO/Piceance_Basin/RioBasin_2017payload.json ([empty data] reason: No data matched your selection)
+
+88501,20180101,20181231,08,103,0007,Western_CO/Piceance_Basin/RioBasin_2018payload.json
+	[warn]: UNABLE TO PROCESS (start=20180101, end=20181231, state=08, county=103, site=0007) > NOT CREATED Western_CO/Piceance_Basin/RioBasin_2018payload.json ([empty data] reason: No data matched your selection)
+
+88501,20190101,20191231,08,103,0007,Western_CO/Piceance_Basin/RioBasin_2019payload.json
+	[warn]: UNABLE TO PROCESS (start=20190101, end=20191231, state=08, county=103, site=0007) > NOT CREATED Western_CO/Piceance_Basin/RioBasin_2019payload.json ([empty data] reason: No data matched your selection)
+
+88502,20170101,20171231,08,067,7003,Western_CO/La_Posta/Ute3_2017payload.json
+	[warn]: UNABLE TO PROCESS (start=20170101, end=20171231, state=08, county=067, site=7003) > NOT CREATED Western_CO/La_Posta/Ute3_2017payload.json ([empty data] reason: No data matched your selection)
+
+88502,20180101,20181231,08,067,7003,Western_CO/La_Posta/Ute3_2018payload.json
+	[warn]: UNABLE TO PROCESS (start=20180101, end=20181231, state=08, county=067, site=7003) > NOT CREATED Western_CO/La_Posta/Ute3_2018payload.json ([empty data] reason: No data matched your selection)
+
+88502,20170101,20171231,08,067,7001,Western_CO/La_Posta/Ute1_2017payload.json
+	[warn]: UNABLE TO PROCESS (start=20170101, end=20171231, state=08, county=067, site=7001) > NOT CREATED Western_CO/La_Posta/Ute1_2017payload.json ([empty data] reason: No data matched your selection)
+
+88502,20180101,20181231,08,067,7001,Western_CO/La_Posta/Ute1_2018payload.json
+	[warn]: UNABLE TO PROCESS (start=20180101, end=20181231, state=08, county=067, site=7001) > NOT CREATED Western_CO/La_Posta/Ute1_2018payload.json ([empty data] reason: No data matched your selection)
+
+88502,20190101,20191231,08,067,7001,Western_CO/La_Posta/Ute1_2019payload.json
+	[warn]: UNABLE TO PROCESS (start=20190101, end=20191231, state=08, county=067, site=7001) > NOT CREATED Western_CO/La_Posta/Ute1_2019payload.json ([empty data] reason: No data matched your selection)
+
+88502,20200101,20201231,08,067,7001,Western_CO/La_Posta/Ute1_2020payload.json
+	[warn]: UNABLE TO PROCESS (start=20200101, end=20201231, state=08, county=067, site=7001) > NOT CREATED Western_CO/La_Posta/Ute1_2020payload.json ([empty data] reason: No data matched your selection)
+
+88101,20170101,20171231,08,029,0007,Western_CO/Paonia/Paonia_2017payload.json
+	[warn]: UNABLE TO PROCESS (start=20170101, end=20171231, state=08, county=029, site=0007) > NOT CREATED Western_CO/Paonia/Paonia_2017payload.json ([empty data] reason: No data matched your selection)
+
+88101,20170101,20171231,08,031,0013,Denver/NJH/14thAlbion_2017payload.json
+	[warn]: UNABLE TO PROCESS (start=20170101, end=20171231, state=08, county=031, site=0013) > NOT CREATED Denver/NJH/14thAlbion_2017payload.json ([empty data] reason: No data matched your selection)
+
+88101,20170101,20171231,08,001,0010,Denver/Adams_Birch/7275Birch_2017payload.json
+	[warn]: UNABLE TO PROCESS (start=20170101, end=20171231, state=08, county=001, site=0010) > NOT CREATED Denver/Adams_Birch/7275Birch_2017payload.json ([empty data] reason: No data matched your selection)
+
+88101,20180101,20181231,08,001,0010,Denver/Adams_Birch/7275Birch_2018payload.json
+	[warn]: UNABLE TO PROCESS (start=20180101, end=20181231, state=08, county=001, site=0010) > NOT CREATED Denver/Adams_Birch/7275Birch_2018payload.json ([empty data] reason: No data matched your selection)
+
+88101,20190101,20191231,08,001,0010,Denver/Adams_Birch/7275Birch_2019payload.json
+	[warn]: UNABLE TO PROCESS (start=20190101, end=20191231, state=08, county=001, site=0010) > NOT CREATED Denver/Adams_Birch/7275Birch_2019payload.json ([empty data] reason: No data matched your selection)
+
+88101,20200101,20201231,08,001,0010,Denver/Adams_Birch/7275Birch_2020payload.json
+	[warn]: UNABLE TO PROCESS (start=20200101, end=20201231, state=08, county=001, site=0010) > NOT CREATED Denver/Adams_Birch/7275Birch_2020payload.json ([empty data] reason: No data matched your selection)
+
+88101,20210101,20211231,08,001,0008,Denver/Adams_Birch/7275Birch0008_2021payload.json
+	[warn]: UNABLE TO PROCESS (start=20210101, end=20211231, state=08, county=001, site=0008) > NOT CREATED Denver/Adams_Birch/7275Birch0008_2021payload.json ([empty data] reason: No data matched your selection)
+
+88101,20220101,20221231,08,001,0008,Denver/Adams_Birch/7275Birch0008_2022payload.json
+	[warn]: UNABLE TO PROCESS (start=20220101, end=20221231, state=08, county=001, site=0008) > NOT CREATED Denver/Adams_Birch/7275Birch0008_2022payload.json ([empty data] reason: No data matched your selection)
+
