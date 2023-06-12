@@ -2,7 +2,7 @@
 
 This project analyzes the calibration parameters for the [Purple Air real-time air quality monitor](https://www2.purpleair.com/).
 
-## Analysis
+## Analysis Methodology
 
 The analysis is broken up into several Jupyter notebooks.
 
@@ -12,7 +12,7 @@ The analysis is broken up into several Jupyter notebooks.
 | data analysis| initial analysis | [./analysis/analysis_01.ipynb](./preprocessing/AirNow_API_extraction.ipynb) |
 | -- | --| -- |
 
-## Data
+## Data Sets
 
 EPA AQI API (historical):
 * https://aqs.epa.gov/aqsweb/documents/data_api.html
