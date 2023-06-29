@@ -1,2 +1,2 @@
 param,bdate,edate,state,county,site,fname
-88101,20170101,20171231,08,005,0005,Front_Range/FRLittletonACC/testACC_17payload.json
+88101,20190101,20191231,08,097,0008,Denver/ContinMonitors/ASPENMyst2019_payload.json

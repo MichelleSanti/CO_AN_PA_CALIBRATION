@@ -1,0 +1,6 @@
+88101,20200101,20201231,08,103,0006,Western_CO/Rangely/Rangely-Golf-Course_2020payload.json
+	[error]: UNABLE TO PROCESS (start=20200101, end=20201231, state=08, county=103, site=0006) > NOT CREATED Western_CO/Rangely/Rangely-Golf-Course_2020payload.json (reason: HTTPSConnectionPool(host='aqs.epa.gov', port=443): Max retries exceeded with url: /data/api/sampleData/bySite?email=mamassih%40ucar.edu&key=carmelfrog11&param=88101&bdate=20200101&edate=20201231&state=08&county=103&site=0006 (Caused by SSLError(SSLError(1, '[SSL: TLSV1_ALERT_INTERNAL_ERROR] tlsv1 alert internal error (_ssl.c:1129)'))))
+
+81102,20220101,20221231,08,097,0008,Western_CO/Aspen/Yellow-Brick-Building_2022payload.json
+	[error]: UNABLE TO PROCESS (start=20220101, end=20221231, state=08, county=097, site=0008) > NOT CREATED Western_CO/Aspen/Yellow-Brick-Building_2022payload.json (reason: ('Connection aborted.', ConnectionResetError(10054, 'An existing connection was forcibly closed by the remote host', None, 10054, None)))
+
